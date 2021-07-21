@@ -1,0 +1,9 @@
+/* цвет основного текста #212121 */
+/*  вторичный цвет  #757575; */
+/* белый  #FFFFFF */
+/* акцент background: #2196F3;*/
+/* background: #FFFFFF99; */
+.page {
+  color: #757575;
+  background-color: #ffffff;
+}
