@@ -63,7 +63,7 @@ span {
   line-height: 1.14;
   color: var(--title-text-color);
 }
-
+.site-nav .current,
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-color);
